@@ -8,4 +8,4 @@
 ``npm run build``
 
 ### Stack
-<p>Vue3, Vite, Quasar CLI</p>
+<p>Vue 3, Vite, Quasar CLI, TypeScript</p>
